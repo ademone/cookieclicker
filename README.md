@@ -1,1 +1,1 @@
-Auto cookie clicker with selenium
+Auto cookie clicker with selenium and python
